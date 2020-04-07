@@ -1,6 +1,12 @@
 html, body {
-    background-color: khaki;
+    background-color: rgb(115, 173, 175);
 }
 img{
     width: 20rem;
+}
+
+.img-container{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
 }
